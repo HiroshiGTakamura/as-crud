@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="name">Nome:</string>
+    <string name="address">Endereço:</string>
+    <string name="city">Bairro:</string>
+    <string name="streetCode">CEP:</string>
+</resources>
